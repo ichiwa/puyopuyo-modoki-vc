@@ -5,3 +5,5 @@ This is the Game like PUYO-PUYO made by visual studio 6.
 ![image](https://github.com/ichiwa/puyopuyo-modoki-vc/blob/master/res/puyomodoki.png)
 
 this is an old code.
+
+in 2008.
